@@ -7,3 +7,4 @@ AlphaProject EdgeComputing GNN
 - [Week5 : 그래프 프레임워크 IGNNITION, 강화학습 GMDR](https://github.com/junyong1111/AlphaProject-GNN/tree/week5)
 - [Week6 : Deep Reinforcement Learning meets Graph Neural Networks: exploring a routing optimization use case 논문 리뷰](https://github.com/junyong1111/AlphaProject-GNN/tree/week6)
 - [Week7 : MovieLens Light GCN 프레임워크]()
+- [Week8 : LightGCN 최적화 ]()
