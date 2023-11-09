@@ -9,3 +9,4 @@ AlphaProject EdgeComputing GNN
 - [Week7 : MovieLens Light GCN 프레임워크](https://github.com/junyong1111/AlphaProject-GNN/tree/week7/week7)
 - [Week8 : LightGCN 심층분석](https://github.com/junyong1111/AlphaProject-GNN/tree/week8/week8)
 - [Week9 : LightGCN 개선방향 MFGCN](https://github.com/junyong1111/AlphaProject-GNN/tree/week9/week9)
+- [Week10 :Graph Attention Network](https://github.com/junyong1111/AlphaProject-GNN/tree/week10/week10)
