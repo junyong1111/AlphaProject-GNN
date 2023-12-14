@@ -10,3 +10,8 @@ AlphaProject EdgeComputing GNN
 - [Week8 : LightGCN 심층분석](https://github.com/junyong1111/AlphaProject-GNN/tree/week8/week8)
 - [Week9 : LightGCN 개선방향 MFGCN](https://github.com/junyong1111/AlphaProject-GNN/tree/week9/week9)
 - [Week10 :Graph Attention Network](https://github.com/junyong1111/AlphaProject-GNN/tree/week10/week10)
+- [Week11 :GraphAttentionNetwork 기법을 적용한 논문 조사(SGAT)](https://github.com/junyong1111/AlphaProject-GNN/tree/week10/week11)
+- [Week12 :GraphAttentionNetwork 기법을 적용한 논문 조사(Attention-Based Recommendation On Graphs)](https://github.com/junyong1111/AlphaProject-GNN/tree/week10/week12)
+- [Week13 :GNN 모델을 통해 얻은 추천 결과를 분석](https://github.com/junyong1111/AlphaProject-GNN/tree/week10/week13)
+- [Week14 :Attention 매커니즘 적용](https://github.com/junyong1111/AlphaProject-GNN/tree/week10/week14)
+
