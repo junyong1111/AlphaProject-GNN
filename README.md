@@ -1,4 +1,5 @@
 # AlphaProject-GNN
+GNN을 이용한 추천시스템
 AlphaProject EdgeComputing GNN
 - [Week1 : EdgeComputing](https://github.com/junyong1111/AlphaProject-GNN/tree/week1/week1)
 - [Week2 : EdgeComputing with GNN](https://github.com/junyong1111/AlphaProject-GNN/tree/week2/week2)
